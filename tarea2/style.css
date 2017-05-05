@@ -1,0 +1,21 @@
+body{
+	background-color: #ccc;
+	font-family: sans-serif;
+}
+.parrafo{
+	background-color: #ffffff;
+	margin:0 auto;
+	padding: 10px 20px;
+	width: 600px;
+	position: relative;
+	top: 200px;
+}
+
+h1, h2, p{
+	text-indent: 20px;
+	margin-top: 0;
+}
+.links{
+	color:green;
+	text-decoration: none;
+}

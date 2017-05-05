@@ -1,0 +1,10 @@
+*{
+	font-family: arial, sans-serif;/*font family*/
+	color:#666;
+}
+
+body{
+	font-size: 16px; /*Recordar que esto es una declaracion*/
+	margin: 0 auto;
+	padding: 0;
+}
